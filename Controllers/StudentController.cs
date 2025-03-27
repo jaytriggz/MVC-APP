@@ -13,6 +13,7 @@ namespace StudentApp.Controllers
                 "Troy",
                 "Nicole",
                 "Charlie",
+                "Femi",
                 "Beyonce"
             };
 
