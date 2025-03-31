@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7fB5q8HGxpw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arotr\\Downloads\\Ex_Files_C_and_NET_Essential_Training\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Finished\\Files\\CreateFiles\\CreateFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arotr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\arotr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\arotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\arotr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
